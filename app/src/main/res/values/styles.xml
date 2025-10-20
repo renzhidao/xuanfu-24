@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 应用主主题（AppCompat） -->
+    <style name="Theme.ScreenMask" parent="Theme.AppCompat.Light.NoActionBar" />
+
+    <!-- 选择框页面使用的“半透明 AppCompat 主题” -->
+    <style name="Theme.ScreenMask.Translucent" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+    </style>
+</resources>

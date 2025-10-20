@@ -1,0 +1,10 @@
+<!-- 文件: app/src/main/res/mipmap/ic_launcher.xml -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+    <path
+        android:fillColor="#6200EE"
+        android:pathData="M24,4C12.96,4 4,12.96 4,24s8.96,20 20,20 20,-8.96 20,-20S35.04,4 24,4zM24,40c-8.82,0 -16,-7.18 -16,-16s7.18,-16 16,-16 16,7.18 16,16 -7.18,16 -16,16z"/>
+</vector>
